@@ -1,10 +1,10 @@
 # Manual de usuario BrightSign
 
-## Introducción
+### Introducción
 
 El sistema de BrightSign está formado de 3 partes, Los Dispositivos llamados **“Players”**, La nube o red llamada **“BrightSign Network”** y el programa de escritorio **“BrightAuthor**.
 
-## BrightSign Network
+### BrightSign Network
 
 La Red de BrightSign, es donde se aloja toda la información, así como la configuración de los Players.  Para acceder al la red tendrás que ingresar a la página [BrightSign Network](https://www.brightsignnetwork.com/signin.aspx?ReturnUrl=%2fusage.aspx)
 

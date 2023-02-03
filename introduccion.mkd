@@ -8,7 +8,7 @@ El sistema de BrightSign está formado de 3 partes, Los Dispositivos llamados **
 
 La Red de BrightSign, es donde se aloja toda la información, así como la configuración de los Players.  Para acceder al la red tendras que ingresar a la pagina [BrightSign Network](https://www.brightsignnetwork.com/signin.aspx?ReturnUrl=%2fusage.aspx)
 
-[Una vez en ella, inicias con las credenciales que te den en la empresa](/img/network_pantalla_de_inicio.jpg)
+![Una vez en ella, inicias con las credenciales que te den en la empresa](/img/network_pantalla_de_inicio.jpg)
 
 
 

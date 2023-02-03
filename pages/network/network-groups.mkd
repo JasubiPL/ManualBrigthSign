@@ -18,3 +18,48 @@ Vemos que tenemos 3 botones y una palomita color verde :white_check_mark:
 
 * :heavy_plus_sign: En **“Add Presentation”** podemos agregar la presentación que queremos que se muestre en esos players(sin embargo, esto no lo aremos desde aquí).
 * :arrow_right_hook: En **“Move Device To”** Podemos mover los Players a otro grupo si así se requiere, lo cual suele ser muy raro.
+
+La palomita color verde :white_check_mark: indica que los Players que están en ese grupo están funcionando correctamente. Si alguno de los players está fallando o tiene algún error, te aparecer en color rojo o amarillo. :red_circle: :warning:
+
+<p align="center"><img src="../../img/network-group-players-rojo.jpg"/></p>
+
+<br>
+
+Para añadir un grupo nos iremos a la parte superior y daremos clic en **“Add Group”** ubicada en la parte superior.
+
+<p align="center"><img src="../../img/network-group-players-rojo.jpg"/></p>
+
+<br>
+
+Nombramos al grupo y en la parte inferior ponemos las opciones de **“Debugging”** en **“Enabled”** para que nos muestre los errores cuando se lleguen a presentar y le damos en **“Create”.**
+
+<p align="center"><img src="../../img/network-menu-creategroups.jpg"/></p>
+
+<br>
+
+Y ya tendremos nuestro grupo creado. 
+El player se lo agregaremos en la configuración del Player más adelante.
+
+<p align="center"><img src="../../img/network-group-create.jpg"/></p>
+
+<br>
+
+Para eliminar un grupo primero deberemos eliminar los Players que contenga.
+Una vez el grupo ya no tenga Payers asignados, para eliminarlo le daremos en **“Properties”** y después en **“Delete”.**
+
+<p align="center"><img src="../../img/network-delet-group.jpg"/></p>
+
+<br>
+
+Y ultimo verificamos que el grupo se haya eliminado.
+
+<p align="center"><img src="../../img/network-group-delete.jpg"/></p>
+
+<br>
+
+Por último, de lado Derecho, podemos ver la presentación que tiene asignada cada Player.
+
+<p align="center"><img src="../../img/network-presentacion.jpg"/></p>
+
+
+

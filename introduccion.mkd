@@ -1,4 +1,4 @@
-# <center>Manual de usuario BrightSign</center>
+# Manual de usuario BrightSign
 
 ## Introducción
 
@@ -10,6 +10,17 @@ La Red de BrightSign, es donde se aloja toda la información, así como la confi
 
 Una vez en ella, inicias con las credenciales que te den en la empresa.
 ![Network Pantalla de inicio](/img/network_pantalla_de_inicio.jpg)
+
+Una vez ingreses las credenciales, deberás seleccionar la RED a la que deseas ingresas.
+Cabe mencionar que dependiendo de las credenciales que ingreses, serán las Redes a las que tendrás acceso.
+
+Actualmente hay 3 Redes:
+
+* **ETN_Turistar_Lujo**: Para ETN
+* **newtimes**: Para AERS
+* **Eduardo**: Para GHO
+
+<p align="center"><img src="./img/network_signIn.jpg" /></p>
 
 
 

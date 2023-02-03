@@ -1,2 +1,20 @@
->*[Introduccion](../../introduccion.mkd) ➡️ [Network](network.mkd) ➡️ [Groups](./network-groups.mkd)*
+*[Introduccion](../../introduccion.mkd) / [Network](network.mkd) / [Groups](./network-groups.mkd)*
 <h1 align="center"> Groups </h1>
+
+En esta sección encontraremos los grupos de Player que tenemos.
+La función de estos grupos es valga la redundancia, agrupar Players y poderles asignar el mismo contenido.
+
+En ETN y GHO lo normal es que haya un Player por grupo. En Costaline, por otro lado, suele haber varios players por grupo.<br><br>
+
+**Grupo con 1 Player**
+
+<p align="center"><img src="../../img/network-grupo-1player.jpg"/></p>
+
+**Grupo con más Players:**
+
+<p align="center"><img src="../../img/network-grupo-varios-players.jpg"/></p>
+
+Vemos que tenemos 3 botones y una palomita color verde :white_check_mark:
+
+* :heavy_plus_sign: En **“Add Presentation”** podemos agregar la presentación que queremos que se muestre en esos players(sin embargo, esto no lo aremos desde aquí).
+* :arrow_right_hook: En **“Move Device To”** Podemos mover los Players a otro grupo si así se requiere, lo cual suele ser muy raro.

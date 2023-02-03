@@ -1,6 +1,6 @@
 <h1>Manual de usuario BrightSign <h1/>
 
- <h2 style="color:#7133FF">Introducción</h2>
+<h2 style="color:#7133FF">Introducción</h2>
 
 El sistema de BrightSign está formado de 3 partes, Los Dispositivos llamados **“Players”**, La nube o red llamada **“BrightSign Network”** y el programa de escritorio **“BrightAuthor**.
 

@@ -1,3 +1,4 @@
+>*[Introduccion](../../introduccion.mkd) ➡️ [Network](network.mkd)*
 ### BrightSign Network
 
 La Red de BrightSign, es donde se aloja toda la información, así como la configuración de los Players.  Para acceder al la red tendrás que ingresar a la página [BrightSign Network](https://www.brightsignnetwork.com/signin.aspx?ReturnUrl=%2fusage.aspx)

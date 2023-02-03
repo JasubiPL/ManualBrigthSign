@@ -1,4 +1,4 @@
-# Manual de usuario BrightSign
+<h1 align="center">👨‍💻 Manual de usuario BrightSign 📑</h1>
 
 ### Introducción
 

@@ -1,38 +1,17 @@
 <h1 align="center">👨‍💻 Manual de usuario BrightSign 📑</h1>
 
+<p align="center"><img src="./img/wallpaper-players.png" /></p>
+
 ### Introducción
 
-El sistema de BrightSign está formado de 3 partes, Los Dispositivos llamados **“Players”**, La nube o red llamada **“BrightSign Network”** y el programa de escritorio **“BrightAuthor**.
+BrightSign es un sistema de gestión de contenido con mucho potencial que nos permite proyectar imágenes, videos he incluso archivos HTML5, dependiendo el modelo del Player.
 
-### BrightSign Network
+Este es un manual de usuario básico en el cual encontraras los fundamentos para poder gestionar el contenido adecuadamente. Siempre podrás ir a la página oficial [BrightSign.biz](https://www.brightsign.biz) para mas informacion, cabe mencionar que dicho contenido esta en inglés.
 
-La Red de BrightSign, es donde se aloja toda la información, así como la configuración de los Players.  Para acceder al la red tendrás que ingresar a la página [BrightSign Network](https://www.brightsignnetwork.com/signin.aspx?ReturnUrl=%2fusage.aspx)
+También puedes acceder a los cursos especializados que ofrece BrightSign, en [BrightSign Academy](https://brightsignacademy.smarteru.com/remote-login/login.cfm) solo que estos cursos son de igual manera en ingles y son del su nueva Network.
 
-Una vez en ella, inicias con las credenciales que te den en la empresa.
-![Network Pantalla de inicio](/img/network_pantalla_de_inicio.jpg)
+El sistema de BrightSign está formado de 3 partes:
+* Los Dispositivos llamados **Players** 
+* La nube o red llamada **[BrightSign Network](./pages/network/network.mkd)**
+* El programa de escritorio **[BrightAuthor](./pages/desktop/desktop.mkd)**
 
-Una vez ingreses las credenciales, deberás seleccionar la RED a la que deseas ingresas.
-Cabe mencionar que dependiendo de las credenciales que ingreses, serán las Redes a las que tendrás acceso.<br><br>
-
-Actualmente hay 3 Redes:
-
-* **ETN_Turistar_Lujo**: Para ETN
-* **newtimes**: Para AERS
-* **Eduardo**: Para GHO
-
-<p align="center"><img src="./img/network_signIn.jpg" /></p>
-<br><br>
-
-Una vez ingreses te aparecerá la siguiente pantalla
-
-<p align="center"><img src="./img/network_settings.jpg" /></p>
-
-En la parte superior encontraremos 5 pestañas:
-
-* Create
-* Edit
-* Library
-* **[Groups](pages/network/network-groups.mkd)**
-* **[Current](pages/network/network-current.mkd)**
-
-<b> :warning: *En la parte Web, solo nos centraremos en Groups y Current Usage.*</b>

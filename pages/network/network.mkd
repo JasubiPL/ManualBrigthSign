@@ -1,0 +1,32 @@
+### BrightSign Network
+
+La Red de BrightSign, es donde se aloja toda la información, así como la configuración de los Players.  Para acceder al la red tendrás que ingresar a la página [BrightSign Network](https://www.brightsignnetwork.com/signin.aspx?ReturnUrl=%2fusage.aspx)
+
+Una vez en ella, inicias con las credenciales que te den en la empresa.
+![Network Pantalla de inicio](/img/network_pantalla_de_inicio.jpg)
+
+Una vez ingreses las credenciales, deberás seleccionar la RED a la que deseas ingresas.
+Cabe mencionar que dependiendo de las credenciales que ingreses, serán las Redes a las que tendrás acceso.<br><br>
+
+Actualmente hay 3 Redes:
+
+* **ETN_Turistar_Lujo**: Para ETN
+* **newtimes**: Para AERS
+* **Eduardo**: Para GHO
+
+<p align="center"><img src="../../img/network_signIn.jpg" /></p>
+<br><br>
+
+Una vez ingreses te aparecerá la siguiente pantalla
+
+<p align="center"><img src="../../img/network_settings.jpg" /></p>
+
+En la parte superior encontraremos 5 pestañas:
+
+* Create
+* Edit
+* Library
+* **[Groups](network-groups.mkd)**
+* **[Current](network-current.mkd)**
+
+<b> :warning: *En la parte Web, solo nos centraremos en Groups y Current Usage.*</b>

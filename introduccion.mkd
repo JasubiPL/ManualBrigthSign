@@ -1,4 +1,4 @@
-# Manual de usuario BrightSign
+# <center>Manual de usuario BrightSign</center>
 
 ## Introducción
 
@@ -6,9 +6,10 @@ El sistema de BrightSign está formado de 3 partes, Los Dispositivos llamados **
 
 ## BrightSign Network
 
-La Red de BrightSign, es donde se aloja toda la información, así como la configuración de los Players.  Para acceder al la red tendras que ingresar a la pagina [BrightSign Network](https://www.brightsignnetwork.com/signin.aspx?ReturnUrl=%2fusage.aspx)
+La Red de BrightSign, es donde se aloja toda la información, así como la configuración de los Players.  Para acceder al la red tendrás que ingresar a la página [BrightSign Network](https://www.brightsignnetwork.com/signin.aspx?ReturnUrl=%2fusage.aspx)
 
-![Una vez en ella, inicias con las credenciales que te den en la empresa](/img/network_pantalla_de_inicio.jpg)
+Una vez en ella, inicias con las credenciales que te den en la empresa.
+![Network Pantalla de inicio](/img/network_pantalla_de_inicio.jpg)
 
 
 
